@@ -132,5 +132,5 @@ If you use this repository in your work, please consider citing us as the follow
           author = {Fatih Demir},
           title = {Deep Neural Network with Numpy},
           date = {2023-03-01},
-          url = {https://github.com/UluLord/Deep-Neural-Network-with-Numpy.git}
+          url = {https://github.com/UluLord/Deep-Neural-Network-with-Numpy}
           }
