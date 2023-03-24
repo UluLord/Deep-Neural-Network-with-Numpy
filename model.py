@@ -14,7 +14,7 @@ class DNNModel:
               loss_type="categorical_crossentropy", dropout_rate=0., lambd=0., 
               optimizer="adam", learning_rate=0.001, beta1=0.9, beta2=0.999, epsilon=1e-8):
       """
-      - Args:
+      Args:
       - layers (list): a list of integers representing the number of neurons in each layer of the neural network.
       - hidden_layer_activation (str, optional): the activation function for the hidden layers of the neural network.
            Defaults to "relu".
